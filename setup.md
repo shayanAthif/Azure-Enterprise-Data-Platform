@@ -69,10 +69,10 @@ Clicked *Review + Create*, finalized settings, and deployed.
 
 ## **Final Setup**  
 Now that our setup is complete, let's review the resource group.  
-
 ![image](https://github.com/user-attachments/assets/1ca69a28-91c9-4de1-9173-bd6ffe550547)
 
 
 Here, we can see the data lake, the data factory, databaseand the database server.
 
 Now, let's move on to the next step.
+[Click here to go to the Extract Layer](Extract.md) 

@@ -131,4 +131,4 @@ With this final step, our data extraction process is **complete**! 🎉
 In this project, I successfully defined a robust SQL database schema, implemented a dynamic data ingestion pipeline from GitHub to SQL using Azure Data Factory, and optimized the process with incremental loading. By leveraging a **watermark table**, we ensure that only new records are processed, significantly improving efficiency.
 
 With all components in place, our data pipeline is now automated, scalable, and ready for future expansions!
-
+[Click here to go to the Transformation Layer](Transformation.md) 

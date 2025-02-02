@@ -26,7 +26,7 @@ Before starting, ensure you have the following:
 
 ## Setup Instructions
 To get started with the project, follow the setup guide available at:
-[Setup Guide](setup.md) *(Replace with actual setup file link once available.)*
+[Setup Guide](setup.md) 
 
 ---
 

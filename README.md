@@ -1,7 +1,9 @@
-# End-to-End Data Engineering Project
-
+# Azure-enterprise-data-platform
 ## Overview
 This project focuses on building a comprehensive data engineering pipeline using **Azure Data Factory, Databricks, and PySpark**. It leverages modern cloud technologies and best practices to ensure efficient data processing and governance.
+  
+![image](https://github.com/user-attachments/assets/d45accfa-4a30-48e5-9348-5bd3cad26566)
+  
 
 ### Key Components:
 - **Azure Data Factory:** Orchestrates data workflows.
@@ -23,6 +25,9 @@ Before starting, ensure you have the following:
 - An **Azure Subscription** with access to Azure Data Factory and Databricks.
 - Basic understanding of **PySpark, SQL, and Data Engineering concepts**.
 - Familiarity with **Azure services** and **data pipeline orchestration**.
+
+## Acknowledgments  
+This project was inspired by and developed following Ansh Lamba's excellent tutorial [Azure End-To-End Data Engineering Project (Job Ready) | Azure Data Engineering Bootcamp](https://www.youtube.com/watch?v=6_hXeNg9TJ0&t=20753s). His comprehensive guide on building job-ready data engineering pipelines with Azure services was instrumental in creating this project. I highly recommend checking out his YouTube channel for more in-depth data engineering content.
 
 ## Setup Instructions
 To get started with the project, follow the setup guide available at:

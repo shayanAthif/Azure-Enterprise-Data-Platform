@@ -1,4 +1,4 @@
-# Azure-enterprise-data-platform
+# Azure-Enterprise-Data-Platform
 ## Overview
 This project focuses on building a comprehensive data engineering pipeline using **Azure Data Factory, Databricks, and PySpark**. It leverages modern cloud technologies and best practices to ensure efficient data processing and governance.
   

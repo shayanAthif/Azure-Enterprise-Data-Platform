@@ -187,7 +187,7 @@ df.write.format('parquet')\
 |-------------|
 | A columnar storage file format optimized for big data processing and analytics. It supports efficient compression and encoding schemes. |
 
-  ![image](https://github.com/user-attachments/assets/4c08fc77-47d8-4f05-9670-2c939b232435)
+![image](https://github.com/user-attachments/assets/1ba6ea5d-2f90-4c09-8aa3-7a9cb8010eb2)
   
 ## Transformation Phase Completed ✅
 

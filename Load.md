@@ -139,7 +139,7 @@ else:
         .option("path", "abfss://gold@shayanathifdatalake.dfs.core.windows.net/carsales")
 ```
 The fact table:  
-![image](https://github.com/user-attachments/assets/4a4dc523-be96-4627-97fd-7ad4f351463a)
+![Screenshot 2025-02-01 165138](https://github.com/user-attachments/assets/2679a06c-47dd-4322-98ad-b62fc076b624)
   
 🎉 **The Gold Layer is now fully built and ready for analytics!**
 
